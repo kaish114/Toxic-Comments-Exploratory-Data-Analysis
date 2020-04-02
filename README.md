@@ -21,3 +21,5 @@ Different platforms/sites can have different standards for their toxic screening
 
 [Dataset](https://figshare.com/articles/Wikipedia_Talk_Labels_Toxicity/4563973).
 
+[Medium Article](https://medium.com/@kaish114/toxic-comments-exploratory-data-analysis-2d5252dcacae)
+
