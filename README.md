@@ -1,12 +1,12 @@
-
-#Introduction
+##Introduction
 
 Some times people say nasty things over the internet because they feel anonymous there. So lets filter out some hate.
 
-#Objective:
+##Objective
 
 I am going to perform Exploratory data analysis for toxic comment classification
-Dataset:
+
+##Dataset
 
 The dataset here is from wiki corpus dataset which was rated by human raters for toxicity. The corpus contains 63M comments from discussions relating to user pages and articles dating from 2004-2015.
 
